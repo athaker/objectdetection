@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>images-apple-clipart-page-5-2</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\images-apple-clipart-page-5-2.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1024</width>
+    <height>1024</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>90</xmin>
+      <ymin>100</ymin>
+      <xmax>908</xmax>
+      <ymax>944</ymax>
+    </bndbox>
+  </object>
+</annotation>

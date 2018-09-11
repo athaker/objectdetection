@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>apple_PNG12442</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\apple_PNG12442.png</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1252</width>
+    <height>1211</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>1</xmin>
+      <ymin>6</ymin>
+      <xmax>1252</xmax>
+      <ymax>1211</ymax>
+    </bndbox>
+  </object>
+</annotation>

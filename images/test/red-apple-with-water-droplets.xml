@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>red-apple-with-water-droplets</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\red-apple-with-water-droplets.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>4481</width>
+    <height>3753</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>681</xmin>
+      <ymin>21</ymin>
+      <xmax>3923</xmax>
+      <ymax>3600</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>apple01-lg</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\apple01-lg.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1200</width>
+    <height>1142</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>70</xmin>
+      <ymin>64</ymin>
+      <xmax>1084</xmax>
+      <ymax>1044</ymax>
+    </bndbox>
+  </object>
+</annotation>

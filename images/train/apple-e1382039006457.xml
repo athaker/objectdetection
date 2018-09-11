@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>apple-e1382039006457</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\apple-e1382039006457.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>450</width>
+    <height>509</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>35</xmin>
+      <ymin>11</ymin>
+      <xmax>413</xmax>
+      <ymax>478</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>Bigapple</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\Bigapple.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2048</width>
+    <height>3140</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>500</xmin>
+      <ymin>1784</ymin>
+      <xmax>1532</xmax>
+      <ymax>2870</ymax>
+    </bndbox>
+  </object>
+</annotation>

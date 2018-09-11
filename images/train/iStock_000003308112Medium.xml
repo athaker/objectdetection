@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>iStock_000003308112Medium</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\iStock_000003308112Medium.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>1291</width>
+    <height>1487</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>97</xmin>
+      <ymin>190</ymin>
+      <xmax>1118</xmax>
+      <ymax>1291</ymax>
+    </bndbox>
+  </object>
+</annotation>

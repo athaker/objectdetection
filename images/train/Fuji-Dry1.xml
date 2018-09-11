@@ -1,0 +1,26 @@
+<annotation>
+  <folder>apple</folder>
+  <filename>Fuji-Dry1</filename>
+  <path>C:\Users\avthaker\Desktop\food\apple\Fuji-Dry1.jpg</path>
+  <source>
+    <database>Unknown</database>
+  </source>
+  <size>
+    <width>2560</width>
+    <height>2560</height>
+    <depth>3</depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>apple</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>406</xmin>
+      <ymin>265</ymin>
+      <xmax>2110</xmax>
+      <ymax>2187</ymax>
+    </bndbox>
+  </object>
+</annotation>
